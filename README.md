@@ -4,20 +4,24 @@ An javascript app that monitors users’ brainwave signal quality by reading in 
 #Requirements
 
 **MuseIO** 
+
 Please download the right version for your device from here and install:
 http://developer.choosemuse.com/research-tools/museio
 
 **osc-web** 
+
 Please follow the instruction to download and install: 
 https://github.com/automata/osc-web
 Specifically, you can follow the “installation” part of the instruction
 
 **jQuery**
+
 Please download from here:
 https://jquery.com/download/
 It’s recommended that you download the uncompressed version
 
 **app**
+
 Please download all the files in the master branch
 
 
